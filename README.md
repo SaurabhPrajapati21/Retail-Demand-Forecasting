@@ -6,6 +6,22 @@
 
 An end-to-end machine learning project that forecasts retail product demand and generates inventory replenishment recommendations.
 
+## Dashboard Preview
+
+### 1. Dashboard Overview
+![Dashboard Overview](images/dashboard-overview.png)
+
+### 2. Historical Sales Analysis
+![Historical Sales Trends](images/historical-sales-trends.png)
+
+### 3. Sales by Store and Item
+![Sales by Store and Item](images/sales-by-store-item.png)
+
+### 4. Demand Forecasting
+![Demand Forecasting](images/demand-forecast.png)
+
+### 5. Inventory Intelligence
+![Inventory Intelligence](images/inventory-intelligence.png)
 
 ## Project Overview
 
@@ -105,6 +121,7 @@ Retail-Demand-Forecasting/
 │   ├── forecast.py
 │   └── inventory.py
 ├── models/
+├── images/
 ├── app.py
 ├── README.md
 ├── requirements.txt
