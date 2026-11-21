@@ -1,6 +1,11 @@
 # Retail Demand Forecasting & Inventory Intelligence
 
+[![Live Demo](https://img.shields.io/badge/Live-Dashboard-brightgreen?style=for-the-badge)](https://retail-demand-ml-dashboard.streamlit.app/)
+
+**Live Application:** [Open Dashboard](https://retail-demand-ml-dashboard.streamlit.app/)
+
 An end-to-end machine learning project that forecasts retail product demand and generates inventory replenishment recommendations.
+
 
 ## Project Overview
 
